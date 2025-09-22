@@ -35,7 +35,7 @@ You need to have **Node.js** and **npm** installed on your machine to handle the
 
 1.  **Clone the repository** to your local machine:
     ```sh
-    git clone [https://github.com/RizviBR0/SkillSync.git](https://github.com/RizviBR0/SkillSync.git)
+    git clone https://github.com/RizviBR0/SkillSync.git
     ```
 2.  **Navigate to the project directory**:
     ```sh
